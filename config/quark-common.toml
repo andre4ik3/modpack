@@ -33,13 +33,13 @@
 	Automation = true
 	Building = true
 	Management = true
-	Tools = false
+	Tools = true
 	Tweaks = true
 	World = true
-	Mobs = false
+	Mobs = true
 	Client = true
 	Experimental = true
-	Oddities = false
+	Oddities = true
 
 [automation]
 	"Redstone Randomizer" = true
@@ -93,7 +93,7 @@
 	"Soul Sandstone" = true
 	Shingles = true
 	"Shear Vines" = true
-	Rope = false
+	Rope = true
 	"Oriental Palette" = true
 	"Nether Brick Fence Gate" = true
 	"More Stone Variants" = true
@@ -398,7 +398,7 @@
 	"Grab Chickens" = true
 	"Glass Shard" = true
 	"Enhanced Ladders" = true
-	Emotes = false
+	Emotes = true
 	"Dragon Scales" = true
 	"Double Door Opening" = true
 	"Compasses Work Everywhere" = true
@@ -543,7 +543,7 @@
 	"Spiral Spires" = true
 	Permafrost = true
 	"No More Lava Pockets" = true
-	"New Stone Types" = false
+	"New Stone Types" = true
 	"Nether Obsidian Spikes" = true
 	"Monster Box" = true
 	"Glimmering Weald" = true
@@ -553,7 +553,7 @@
 	"Blossom Trees" = true
 	"Big Stone Clusters" = true
 	"Big Dungeon" = true
-	"Azalea Wood" = false
+	"Azalea Wood" = true
 
 	[world.spiral_spires]
 		Rarity = 200
@@ -1185,7 +1185,7 @@
 	Toretoise = true
 	Stonelings = true
 	Shiba = true
-	Frogs = true
+	Frogs = false
 	Foxhound = true
 	Forgotten = true
 	Crabs = true

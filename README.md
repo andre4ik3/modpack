@@ -29,28 +29,38 @@ git pull origin master --allow-unrelated-histories
   - [ ] End respawn anchor
   - [ ] More End Biomes
     - It's gonna be overhauled in vanilla eventually right? Maybe backport 1.20
+- [ ] Player transport (!)
 
 ## Mods
 
 - [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
   - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [DropFullCarts](https://www.curseforge.com/minecraft/mc-mods/dropfullcarts)
-- [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
+- [Feature NBT Deadlock Be Gone (Bugfix)](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
+  - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
+- [Flytre](https://www.curseforge.com/minecraft/mc-mods/lib)
+  - [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders)
 - [Glow Inc.](https://www.curseforge.com/minecraft/mc-mods/glow-inc)
+- [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
+- [Interactic](https://www.curseforge.com/minecraft/mc-mods/interactic)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Connected Textures](https://www.curseforge.com/minecraft/mc-mods/ctm)
   - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
     - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [OptiFine](https://optifine.net)
 - [Pollen](https://www.curseforge.com/minecraft/mc-mods/pollen)
   - [Anchor](https://www.curseforge.com/minecraft/mc-mods/anchor)
 - [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
   - [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+- [Second Chance](https://www.curseforge.com/minecraft/mc-mods/second-chance)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Step](https://www.curseforge.com/minecraft/mc-mods/step)
 - SuperMartijn642's [Core](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) and [Config](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) Libs
@@ -58,12 +68,14 @@ git pull origin master --allow-unrelated-histories
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
   - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
   - [The Wild Backport](https://www.curseforge.com/minecraft/mc-mods/the-wild-backport)
+- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [Tough as Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [Unvoted and Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
-- [Void Fog](https://www.curseforge.com/minecraft/mc-mods/void-fog)
 - [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
 - Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-
+- Yung's [API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+  - [Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+  - [Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
 
 ## Datapacks
 
