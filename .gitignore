@@ -3,10 +3,14 @@
 # Root
 /*
 !/README.md
+!/config
 !/world
 !/mods
+
+# Config folder
+/config/*
+!/config/quark-common.toml
 
 # Worlds folder
 /world/*
 !/world/datapacks
-

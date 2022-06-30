@@ -1,5 +1,21 @@
+# Personal Modpack
+
 - Minecraft 1.18.2, Forge 40.1.41 (Anything above crashes)
 - All mods and datapacks are stored with [Git LFS](https://git-lfs.github.com).
+
+## Server Setup
+
+```
+# Make sure Git LFS is installed (download it first)
+git lfs install
+
+# "Clone" into the existing directory, keep files
+git init .
+git remote add origin https://github.com/andre4ik3/modpack.git
+
+# Run this command now, and every other time to do an update
+git pull origin master --allow-unrelated-histories
+```
 
 ## To-Do
 
