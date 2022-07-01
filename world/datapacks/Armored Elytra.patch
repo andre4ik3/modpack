@@ -1,0 +1,54 @@
+diff --git a/data/armored_elytra/functions/armor/gilded_netherite.mcfunction b/data/armored_elytra/functions/armor/gilded_netherite.mcfunction
+new file mode 100644
+index 0000000..015d069
+--- /dev/null
++++ b/data/armored_elytra/functions/armor/gilded_netherite.mcfunction
+@@ -0,0 +1,2 @@
++data merge entity @s {PickupDelay:0s,Item:{tag:{armElyData:{armored:1b,material:8},AttributeModifiers:[{AttributeName:"minecraft:generic.armor",Name:"Armor",Slot:"chest",Operation:0,Amount:8.0d,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046]},{AttributeName:"minecraft:generic.armor_toughness",Name:"Armor Toughness",Slot:"chest",Operation:0,Amount:2.5d,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046]},{AttributeName:"minecraft:generic.knockback_resistance",Name:"Knockback Resistance",Slot:"chest",Operation:0,Amount:0.1d,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046]}],CustomModelData:13522556}}}
++scoreboard players set #found armEly.dummy 1
+\ No newline at end of file
+diff --git a/data/armored_elytra/functions/armor/rose_gold.mcfunction b/data/armored_elytra/functions/armor/rose_gold.mcfunction
+new file mode 100644
+index 0000000..a660128
+--- /dev/null
++++ b/data/armored_elytra/functions/armor/rose_gold.mcfunction
+@@ -0,0 +1,2 @@
++data merge entity @s {PickupDelay:0s,Item:{tag:{armElyData:{armored:1b,material:7},AttributeModifiers:[{AttributeName:"minecraft:generic.armor",Name:"Armor",Slot:"chest",Operation:0,Amount:7.0d,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046]},{AttributeName:"minecraft:generic.armor_toughness",Name:"Armor Toughness",Slot:"chest",Operation:0,Amount:1.0d,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046]}],CustomModelData:13522555}}}
++scoreboard players set #found armEly.dummy 1
+\ No newline at end of file
+diff --git a/data/armored_elytra/functions/armor_elytra.mcfunction b/data/armored_elytra/functions/armor_elytra.mcfunction
+index 13ab0e2..60977e2 100644
+--- a/data/armored_elytra/functions/armor_elytra.mcfunction
++++ b/data/armored_elytra/functions/armor_elytra.mcfunction
+@@ -1,6 +1,8 @@
+ data modify entity @s Item.tag.armElyData.elytra set from entity @s Item
+ scoreboard players set #found armEly.dummy 0
++execute if entity @e[type=minecraft:item,tag=armEly.chestplate,nbt={Item:{id:"additionaladditions:gilded_netherite_chestplate"}}] run function armored_elytra:armor/gilded_netherite
+ execute if entity @e[type=minecraft:item,tag=armEly.chestplate,nbt={Item:{id:"minecraft:netherite_chestplate"}}] run function armored_elytra:armor/netherite
++execute if score #found armEly.dummy matches 0 if entity @e[type=minecraft:item,tag=armEly.chestplate,nbt={Item:{id:"additionaladditions:rose_gold_chestplate"}}] run function armored_elytra:armor/rose_gold
+ execute if score #found armEly.dummy matches 0 if entity @e[type=minecraft:item,tag=armEly.chestplate,nbt={Item:{id:"minecraft:diamond_chestplate"}}] run function armored_elytra:armor/diamond
+ execute if score #found armEly.dummy matches 0 if entity @e[type=minecraft:item,tag=armEly.chestplate,nbt={Item:{id:"minecraft:iron_chestplate"}}] run function armored_elytra:armor/iron
+ execute if score #found armEly.dummy matches 0 if entity @e[type=minecraft:item,tag=armEly.chestplate,nbt={Item:{id:"minecraft:golden_chestplate"}}] run function armored_elytra:armor/gold
+diff --git a/data/armored_elytra/functions/check_for_elytra_on_fire.mcfunction b/data/armored_elytra/functions/check_for_elytra_on_fire.mcfunction
+index 12e991d..115594c 100644
+--- a/data/armored_elytra/functions/check_for_elytra_on_fire.mcfunction
++++ b/data/armored_elytra/functions/check_for_elytra_on_fire.mcfunction
+@@ -1,2 +1,3 @@
+ execute if entity @s[nbt={Item:{tag:{armElyData:{material:6}}}}] at @s run function armored_elytra:burn_elytra
++execute if entity @s[nbt={Item:{tag:{armElyData:{material:8}}}}] at @s run function armored_elytra:burn_elytra
+ tag @s add armEly.checkedForElytraOnFire
+\ No newline at end of file
+diff --git a/data/armored_elytra/tags/items/chestplates.json b/data/armored_elytra/tags/items/chestplates.json
+index a6dde8a..58e32d6 100644
+--- a/data/armored_elytra/tags/items/chestplates.json
++++ b/data/armored_elytra/tags/items/chestplates.json
+@@ -5,6 +5,8 @@
+ 		"minecraft:iron_chestplate",
+ 		"minecraft:diamond_chestplate",
+ 		"minecraft:golden_chestplate",
+-		"minecraft:netherite_chestplate"
++		"minecraft:netherite_chestplate",
++		"additionaladditions:rose_gold_chestplate",
++		"additionaladditions:gilded_netherite_chestplate"
+ 	]
+ }

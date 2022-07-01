@@ -11,6 +11,12 @@
 /config/*
 !/config/quark-common.toml
 
-# Worlds folder
+# Worlds/Datapacks folder
 /world/*
 !/world/datapacks
+/world/datapacks/*
+!/world/datapacks/*.zip
+!/world/datapacks/*.patch
+
+# Scripts
+!/scripts
