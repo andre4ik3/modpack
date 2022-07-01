@@ -10,6 +10,7 @@
 # Config folder
 /config/*
 !/config/quark-common.toml
+!/config/flytre_lib.json5
 
 # Worlds/Datapacks folder
 /world/*
