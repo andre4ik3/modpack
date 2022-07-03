@@ -64,7 +64,6 @@ git pull origin master --allow-unrelated-histories
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Step](https://www.curseforge.com/minecraft/mc-mods/step)
 - SuperMartijn642's [Core](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) and [Config](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) Libs
-  - [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
   - [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
   - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
