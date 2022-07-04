@@ -70,7 +70,6 @@ git pull origin master --allow-unrelated-histories
   - [The Wild Backport](https://www.curseforge.com/minecraft/mc-mods/the-wild-backport)
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [Tough as Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
-- [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [Unvoted and Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
 - [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
 - Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
