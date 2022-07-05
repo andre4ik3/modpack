@@ -46,6 +46,8 @@ git pull origin master --allow-unrelated-histories
   - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [Flytre](https://www.curseforge.com/minecraft/mc-mods/lib)
   - [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders)
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
+  - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [Glow Inc.](https://www.curseforge.com/minecraft/mc-mods/glow-inc)
 - [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 - [Interactic](https://www.curseforge.com/minecraft/mc-mods/interactic)
