@@ -56,6 +56,7 @@ git pull origin master --allow-unrelated-histories
 - [More Minecarts](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
 - [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 - [OptiFine](https://optifine.net)
 - [Pollen](https://www.curseforge.com/minecraft/mc-mods/pollen)
   - [Anchor](https://www.curseforge.com/minecraft/mc-mods/anchor)
