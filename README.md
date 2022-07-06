@@ -85,5 +85,3 @@ git pull origin master --allow-unrelated-histories
   - Armored Elytra
   - Custom Crafting Tweaks
   - Double Shulker Shells
-- [Dispenser Cauldron](https://www.planetminecraft.com/data-pack/dispenser-cauldron-v2-1-17/)
-
