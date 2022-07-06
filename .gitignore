@@ -15,9 +15,6 @@
 # Worlds/Datapacks folder
 /world/*
 !/world/datapacks
-/world/datapacks/*
-!/world/datapacks/*.zip
-!/world/datapacks/*.patch
 
 # Scripts
 !/scripts

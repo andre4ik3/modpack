@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "farmersdelight:rope"
+    },
+    "ingredients": [
+    	{
+    		"item": "additionaladditions:rope"
+    	}
+    ]
+}
