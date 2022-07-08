@@ -1,0 +1,236 @@
+diff --git a/assets/quark/textures/model/entity/variants/bees/acebee/angry.png b/assets/quark/textures/model/entity/variants/bees/acebee/angry.png
+deleted file mode 100755
+index a02c1f5..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/acebee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/acebee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/acebee/angry_nectar.png
+deleted file mode 100755
+index 654a059..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/acebee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/acebee/nectar.png b/assets/quark/textures/model/entity/variants/bees/acebee/nectar.png
+deleted file mode 100755
+index 9486224..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/acebee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/acebee/normal.png b/assets/quark/textures/model/entity/variants/bees/acebee/normal.png
+deleted file mode 100755
+index 55c1b90..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/acebee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/agenbee/angry.png b/assets/quark/textures/model/entity/variants/bees/agenbee/angry.png
+deleted file mode 100755
+index 6945533..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/agenbee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/agenbee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/agenbee/angry_nectar.png
+deleted file mode 100755
+index 025dd85..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/agenbee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/agenbee/nectar.png b/assets/quark/textures/model/entity/variants/bees/agenbee/nectar.png
+deleted file mode 100755
+index ced6425..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/agenbee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/agenbee/normal.png b/assets/quark/textures/model/entity/variants/bees/agenbee/normal.png
+deleted file mode 100755
+index 4cf5969..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/agenbee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/arobee/angry.png b/assets/quark/textures/model/entity/variants/bees/arobee/angry.png
+deleted file mode 100755
+index 815ed7a..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/arobee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/arobee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/arobee/angry_nectar.png
+deleted file mode 100755
+index 1a1ae75..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/arobee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/arobee/nectar.png b/assets/quark/textures/model/entity/variants/bees/arobee/nectar.png
+deleted file mode 100755
+index 79c7c2d..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/arobee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/arobee/normal.png b/assets/quark/textures/model/entity/variants/bees/arobee/normal.png
+deleted file mode 100755
+index ba8c188..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/arobee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beefluid/angry.png b/assets/quark/textures/model/entity/variants/bees/beefluid/angry.png
+deleted file mode 100755
+index e660046..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beefluid/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beefluid/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/beefluid/angry_nectar.png
+deleted file mode 100755
+index 7a2b02f..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beefluid/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beefluid/nectar.png b/assets/quark/textures/model/entity/variants/bees/beefluid/nectar.png
+deleted file mode 100755
+index a95417c..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beefluid/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beefluid/normal.png b/assets/quark/textures/model/entity/variants/bees/beefluid/normal.png
+deleted file mode 100755
+index a7e9c4e..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beefluid/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beequeer/angry.png b/assets/quark/textures/model/entity/variants/bees/beequeer/angry.png
+deleted file mode 100755
+index 35eb6f2..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beequeer/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beequeer/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/beequeer/angry_nectar.png
+deleted file mode 100755
+index 333146b..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beequeer/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beequeer/nectar.png b/assets/quark/textures/model/entity/variants/bees/beequeer/nectar.png
+deleted file mode 100755
+index c664cc0..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beequeer/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beequeer/normal.png b/assets/quark/textures/model/entity/variants/bees/beequeer/normal.png
+deleted file mode 100755
+index 727b5f8..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beequeer/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beesexual/angry.png b/assets/quark/textures/model/entity/variants/bees/beesexual/angry.png
+deleted file mode 100755
+index 41fceb8..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beesexual/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beesexual/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/beesexual/angry_nectar.png
+deleted file mode 100755
+index 36d15aa..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beesexual/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beesexual/nectar.png b/assets/quark/textures/model/entity/variants/bees/beesexual/nectar.png
+deleted file mode 100755
+index b3859e2..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beesexual/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/beesexual/normal.png b/assets/quark/textures/model/entity/variants/bees/beesexual/normal.png
+deleted file mode 100755
+index 2e93466..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/beesexual/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/enbee/angry.png b/assets/quark/textures/model/entity/variants/bees/enbee/angry.png
+deleted file mode 100755
+index c5e3cd6..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/enbee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/enbee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/enbee/angry_nectar.png
+deleted file mode 100755
+index 7d58b55..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/enbee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/enbee/nectar.png b/assets/quark/textures/model/entity/variants/bees/enbee/nectar.png
+deleted file mode 100755
+index c1b056e..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/enbee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/enbee/normal.png b/assets/quark/textures/model/entity/variants/bees/enbee/normal.png
+deleted file mode 100755
+index 9779cfb..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/enbee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/gaybee/angry.png b/assets/quark/textures/model/entity/variants/bees/gaybee/angry.png
+deleted file mode 100755
+index b99745d..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/gaybee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/gaybee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/gaybee/angry_nectar.png
+deleted file mode 100755
+index f655751..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/gaybee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/gaybee/nectar.png b/assets/quark/textures/model/entity/variants/bees/gaybee/nectar.png
+deleted file mode 100755
+index f38c0a0..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/gaybee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/gaybee/normal.png b/assets/quark/textures/model/entity/variants/bees/gaybee/normal.png
+deleted file mode 100755
+index 945706c..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/gaybee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/helen/angry.png b/assets/quark/textures/model/entity/variants/bees/helen/angry.png
+deleted file mode 100755
+index 0494593..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/helen/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/helen/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/helen/angry_nectar.png
+deleted file mode 100755
+index 744c904..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/helen/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/helen/nectar.png b/assets/quark/textures/model/entity/variants/bees/helen/nectar.png
+deleted file mode 100755
+index 121ce55..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/helen/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/helen/normal.png b/assets/quark/textures/model/entity/variants/bees/helen/normal.png
+deleted file mode 100755
+index 5da19ff..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/helen/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/interbee/angry.png b/assets/quark/textures/model/entity/variants/bees/interbee/angry.png
+deleted file mode 100755
+index 9835d0b..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/interbee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/interbee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/interbee/angry_nectar.png
+deleted file mode 100755
+index 852783a..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/interbee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/interbee/nectar.png b/assets/quark/textures/model/entity/variants/bees/interbee/nectar.png
+deleted file mode 100755
+index 36be05e..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/interbee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/interbee/normal.png b/assets/quark/textures/model/entity/variants/bees/interbee/normal.png
+deleted file mode 100755
+index 828747e..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/interbee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/lesbeean/angry.png b/assets/quark/textures/model/entity/variants/bees/lesbeean/angry.png
+deleted file mode 100755
+index 0ecf98f..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/lesbeean/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/lesbeean/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/lesbeean/angry_nectar.png
+deleted file mode 100755
+index 326f654..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/lesbeean/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/lesbeean/nectar.png b/assets/quark/textures/model/entity/variants/bees/lesbeean/nectar.png
+deleted file mode 100755
+index ddc915f..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/lesbeean/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/lesbeean/normal.png b/assets/quark/textures/model/entity/variants/bees/lesbeean/normal.png
+deleted file mode 100755
+index 1f2fd7a..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/lesbeean/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/panbee/angry.png b/assets/quark/textures/model/entity/variants/bees/panbee/angry.png
+deleted file mode 100755
+index f0726db..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/panbee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/panbee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/panbee/angry_nectar.png
+deleted file mode 100755
+index a96e228..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/panbee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/panbee/nectar.png b/assets/quark/textures/model/entity/variants/bees/panbee/nectar.png
+deleted file mode 100755
+index 002e6bb..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/panbee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/panbee/normal.png b/assets/quark/textures/model/entity/variants/bees/panbee/normal.png
+deleted file mode 100755
+index 08950c2..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/panbee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/polysexbee/angry.png b/assets/quark/textures/model/entity/variants/bees/polysexbee/angry.png
+deleted file mode 100755
+index 9c31000..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/polysexbee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/polysexbee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/polysexbee/angry_nectar.png
+deleted file mode 100755
+index 7000d6f..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/polysexbee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/polysexbee/nectar.png b/assets/quark/textures/model/entity/variants/bees/polysexbee/nectar.png
+deleted file mode 100755
+index 7ddbf1c..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/polysexbee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/polysexbee/normal.png b/assets/quark/textures/model/entity/variants/bees/polysexbee/normal.png
+deleted file mode 100755
+index ceff502..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/polysexbee/normal.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/transbee/angry.png b/assets/quark/textures/model/entity/variants/bees/transbee/angry.png
+deleted file mode 100755
+index 2115708..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/transbee/angry.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/transbee/angry_nectar.png b/assets/quark/textures/model/entity/variants/bees/transbee/angry_nectar.png
+deleted file mode 100755
+index 02bc473..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/transbee/angry_nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/transbee/nectar.png b/assets/quark/textures/model/entity/variants/bees/transbee/nectar.png
+deleted file mode 100755
+index 7f0749e..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/transbee/nectar.png and /dev/null differ
+diff --git a/assets/quark/textures/model/entity/variants/bees/transbee/normal.png b/assets/quark/textures/model/entity/variants/bees/transbee/normal.png
+deleted file mode 100755
+index 1bb5bb0..0000000
+Binary files a/assets/quark/textures/model/entity/variants/bees/transbee/normal.png and /dev/null differ
+diff --git a/quark.mixins.json b/quark.mixins.json
+index 6a166dc..59b8f22 100755
+--- a/quark.mixins.json
++++ b/quark.mixins.json
+@@ -70,7 +70,6 @@
+     "client.ThrownTridentRendererMixin",
+     "client.accessor.AccessorBlockColors",
+     "client.accessor.AccessorModelManager",
+-    "client.variants.BeeRendererMixin",
+     "client.variants.ChickenRendererMixin",
+     "client.variants.CowRendererMixin",
+     "client.variants.DolphinRendererMixin",
