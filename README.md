@@ -55,7 +55,7 @@ git pull origin master --allow-unrelated-histories
   - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [Glow Inc.](https://www.curseforge.com/minecraft/mc-mods/glow-inc)
 - [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
-- [Interactic](https://www.curseforge.com/minecraft/mc-mods/interactic)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Connected Textures](https://www.curseforge.com/minecraft/mc-mods/ctm)
   - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
