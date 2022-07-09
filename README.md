@@ -1,6 +1,6 @@
 # Personal Modpack
 
-- Minecraft 1.18.2, Forge 40.1.41 (Anything above crashes)
+- Minecraft 1.18.2, Forge 40.1.54
 - All mods and datapacks are stored with [Git LFS](https://git-lfs.github.com).
 
 ## Server Setup
@@ -45,7 +45,8 @@ git pull origin master --allow-unrelated-histories
     - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
-- [DropFullCarts](https://www.curseforge.com/minecraft/mc-mods/dropfullcarts) ([Forge Fork](https://github.com/andre4ik3/DropFullCarts))
+- [DropFullCarts](https://www.curseforge.com/minecraft/mc-mods/dropfullcarts)
+  ([Forge Fork](https://github.com/andre4ik3/DropFullCarts))
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
 - [Feature NBT Deadlock Be Gone (Bugfix)](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
   - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
@@ -79,7 +80,8 @@ git pull origin master --allow-unrelated-histories
 - [Tough as Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [Unvoted and Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved)
 - [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
-- Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+  and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - Yung's [API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
   - [Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
   - [Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
