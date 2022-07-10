@@ -29,7 +29,7 @@ git pull origin master --allow-unrelated-histories
   - [ ] End respawn anchor
   - [ ] More End Biomes
     - It's gonna be overhauled in vanilla eventually right? Maybe backport 1.20
-- [ ] Player transport (!)
+- [x] ~~Player transport (!)~~ Create mod saves the day as it always does!!
 
 ## Mods
 
