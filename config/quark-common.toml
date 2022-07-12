@@ -81,8 +81,8 @@
 
 [building]
 	"Wooden Posts" = true
-	"Vertical Slabs" = true
-	"Vertical Planks" = true
+	"Vertical Slabs" = false
+	"Vertical Planks" = false
 	"Variant Ladders" = true
 	"Variant Furnaces" = true
 	"Variant Chests" = true
@@ -108,18 +108,18 @@
 	"Glass Item Frame" = true
 	"Framed Glass" = true
 	"Duskbound Blocks" = true
-	"Compressed Blocks" = true
-	"Celebratory Lamps" = true
+	"Compressed Blocks" = false
+	"Celebratory Lamps" = false
 
 	[building.vertical_planks]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
 
 	[building.variant_ladders]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -127,7 +127,7 @@
 		"Change Names" = true
 
 	[building.variant_chests]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -138,7 +138,7 @@
 		"Structure Chests" = ["minecraft:village_plains=quark:oak_chest", "minecraft:igloo=quark:spruce_chest", "minecraft:village_snowy=quark:spruce_chest", "minecraft:village_taiga=quark:spruce_chest", "minecraft:desert_pyramid=quark:birch_chest", "minecraft:jungle_pyramid=quark:jungle_chest", "minecraft:village_desert=quark:jungle_chest", "minecraft:village_savanna=quark:acacia_chest", "minecraft:mansion=quark:dark_oak_chest", "minecraft:pillager_outpost=quark:dark_oak_chest", "minecraft:ruined_portal=quark:crimson_chest", "minecraft:bastion_remnant=quark:crimson_chest", "minecraft:fortress=quark:nether_brick_chest", "minecraft:end_city=quark:purpur_chest"]
 
 	[building.variant_bookshelves]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -179,7 +179,7 @@
 		"Enable Netherrack Bricks" = true
 
 	[building.leaf_carpet]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -386,22 +386,22 @@
 	"Snow Golem Player Heads" = true
 	"Simple Harvest" = true
 	"Sign Editing" = true
-	"Replace Scaffolding" = true
+	"Replace Scaffolding" = false
 	"Reacharound Placing" = true
 	"Poison Potato Usage" = true
 	"Pig Litters" = true
-	"Pat The Dogs" = true
+	"Pat The Dogs" = false
 	"Note Block Mob Sounds" = true
 	"More Banner Layers" = true
 	"Lock Rotation" = true
 	"Hoe Harvesting" = true
-	"Grab Chickens" = true
+	"Grab Chickens" = false
 	"Glass Shard" = true
 	"Enhanced Ladders" = true
-	Emotes = true
+	Emotes = false
 	"Dragon Scales" = true
 	"Double Door Opening" = true
-	"Compasses Work Everywhere" = true
+	"Compasses Work Everywhere" = false
 	"Campfires Boost Elytra" = true
 	"Better Elytra Rocket" = true
 	"Automatic Recipe Unlock" = true
@@ -1174,7 +1174,7 @@
 				"Is Blacklist" = true
 
 	[world.azalea_wood]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - caverns_and_chasms
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -1432,11 +1432,11 @@
 	"Uses For Curses" = true
 	"Usage Ticker" = true
 	"Soul Candles" = true
-	"Microcrafting Helper" = true
+	"Microcrafting Helper" = false
 	"Improved Tooltips" = true
 	"Greener Grass" = true
 	"Chest Searching" = true
-	"Back Button Keybind" = true
+	"Back Button Keybind" = false
 	"Auto Walk Keybind" = true
 
 	[client.variant_animal_textures]
@@ -1446,7 +1446,7 @@
 		"Enable Shiny Rabbit" = true
 		"Enable Shiny Llama" = true
 		"Enable Shiny Dolphin" = true
-		"Enable L G B T Bees" = true
+		"Enable L G B T Bees" = false
 		"Every Bee Is L G B T" = false
 		#The chance for an animal to have a special "Shiny" skin, like a shiny pokemon. This is 1 in X. Set to 0 to disable.
 		"Shiny Animal Chance" = 2048
@@ -1551,7 +1551,7 @@
 
 [oddities]
 	"Totem Of Holding" = true
-	"Tiny Potato" = true
+	"Tiny Potato" = false
 	Pipes = true
 	"Matrix Enchanting" = true
 	Magnets = true
@@ -1570,7 +1570,7 @@
 		"Enable Soul Compass" = true
 
 	[oddities.tiny_potato]
-		#This feature disables itself if any of the following mods are loaded:
+		#This feature disables itself if any of the following mods are loaded: 
 		# - botania
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.

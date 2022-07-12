@@ -9,8 +9,11 @@
 
 # Config folder
 /config/*
-!/config/quark-common.toml
+!/config/additional-additions-config.json
+!/config/create-client.toml
 !/config/flytre_lib.json5
+!/config/quark-common.toml
+!/config/toughasnails
 
 # Worlds/Datapacks folder
 /world/*
